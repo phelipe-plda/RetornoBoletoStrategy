@@ -1,0 +1,5 @@
+com\manoelcampos\retornoboleto\LeituraRetornoBancoBrasil.class
+com\manoelcampos\retornoboleto\Boleto.class
+com\manoelcampos\retornoboleto\LeituraRetorno.class
+com\manoelcampos\retornoboleto\ProcessarBoletos.class
+Principal.class
